@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -5,4 +6,21 @@
 body{
     background-color: black;
     color: aliceblue;
+    font-family: 'Pacifico', cursive;
+}
+.header{
+    padding:  25px 100px;
+    font-size: 42px;
+}
+.user{
+    font-size: 30px;
+}
+main{
+    margin: 50px 100px;
+    width: 50%;
+    float: left;
+}
+aside{
+    width: 20%;
+    float: left;
 }
